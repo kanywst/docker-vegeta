@@ -1,0 +1,3 @@
+[submodule "vegeta"]
+	path = vegeta
+	url = https://github.com/tsenart/vegeta.git
